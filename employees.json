@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ahmet YILMAZ",
+    "department": "Informatique",
+    "salary": 2500
+  },
+  {
+    "name": "Ayse DURMAZ",
+    "department": "Accounting",
+    "salary": 1200
+  },
+  {
+    "name": "Hale SOYGAZI",
+    "department": "ENT",
+    "salary": 25000
+  }
+]
